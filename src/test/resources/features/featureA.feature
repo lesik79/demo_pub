@@ -1,4 +1,4 @@
-Feature: The application should be running
+45Feature: The application should be running
 
   @smoke @test
   Scenario: simple login
