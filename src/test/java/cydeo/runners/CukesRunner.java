@@ -15,4 +15,4 @@ import org.junit.runner.RunWith;
         glue = "cydeo/steps",
         publish = true
 )
-public class πø CukesRunner {}
+public class CukesRunner {}
